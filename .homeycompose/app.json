@@ -1,10 +1,10 @@
 {
-  "id": "com.github.alydersen.hdl-smartbus-homey",
+  "id": "ojnordah.com.github.alydersen.hdl-smartbus-homey-v092DLP",
   "version": "0.9.2",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "name": {
-    "en": "HDL SmartBus"
+    "en": "HDL SmartBus ojnordah092DLP"
   },
   "description": {
     "en": "HDL SmartBus support for Homey"
